@@ -61,11 +61,3 @@ FireLink goes beyond just wildfire detection — it maps each fire incident in r
 | Deployment          | Hugging Face Spaces |
 
 ---
-
-## 🚀 Setup Instructions (Developer Use)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/firelink.git
-cd firelink
